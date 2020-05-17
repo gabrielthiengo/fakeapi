@@ -2,7 +2,7 @@
 
 const Route = use('Route')
 
-Route.get('/', () => {
+Route.get('/data', () => {
   const json = `[
     {
         "nome": "Jéssica",
