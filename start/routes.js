@@ -60,6 +60,7 @@ Route.get('/', () => {
       "gordura": 19,
       "imc": 20.79
   }
+
 ]`
 
   return json
